@@ -1,2 +1,2 @@
-# Projeto-B-blia
+# Projeto-Bíblia
 sigam-me meus apóstolos
