@@ -4,4 +4,4 @@ nome: Yohann E. B. Bueno;
 
 00001088661440sp@al.educacao.sp.gov.br                  
 
-<img src="https://media1.tenor.com/m/LJAzSc4UDxcAAAAC/astrollc.gif" alt="Astrollc GIF - Astrollc GIFs"/>
+![](https://pin.it/2ua6wJ1cB)
